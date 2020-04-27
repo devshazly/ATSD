@@ -1,2 +1,2 @@
-# ATSD-
-Azure Terms Shortcut Dictionary 
+# ATSD-Azure Terms Shortcut Dictionary 
+
